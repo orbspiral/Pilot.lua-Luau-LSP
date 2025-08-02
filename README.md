@@ -32,8 +32,6 @@ lune run pilot-generate
 
 You should then open the generated `workspace` folder as the root folder in visual studio code.
 
-Due to lune you have to add `--` after `pilot-generate` for any command options to work (i.e., `lune run pilot-generate -- -o ./workspace`).
-
 ### Optional
 
 Install [rokit](https://github.com/rojo-rbx/rokit), a toolchain manager, you may have already installed this when installing lune.
